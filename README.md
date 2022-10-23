@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @robertwaksmunski
 - 👀 I’m interested in Rust, FreeBSD, Linux, DevOps
-- 🌱 I’m currently learning React
 - 📫 robert - | at | - panamco . com
 
 <!---
